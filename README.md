@@ -6,7 +6,7 @@ This project demonstrates how to create smooth animations, transitions, and hove
 🌐 Live Demo
 
 👉 View Live
- <!-- Replace # with your GitHub Pages link -->
+ https://dheerajece.github.io/Animated_Login_Page/?
 
 ✨ Features
 
